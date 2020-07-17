@@ -1,5 +1,5 @@
 # Toxic-Comment-Classification
-
+![Competition] 
 ## Toxic Comment Classification Challenge, Kaggle Competion by Jigsaw 
 
 [Kaggle Competition link](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview)
